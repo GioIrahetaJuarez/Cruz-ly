@@ -1,4 +1,4 @@
-# Cruzhacks 2026 Winner For Best UCSC App -- Cruzly
+# Cruzhacks 2026 Winner For Best UC Santa Cruz App -- Cruzly
 
 https://devpost.com/software/cruzly
 
